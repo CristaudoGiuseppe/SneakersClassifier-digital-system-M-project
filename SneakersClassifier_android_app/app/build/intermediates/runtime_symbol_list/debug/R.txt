@@ -1754,8 +1754,6 @@ int color purple_200 0x7f05023d
 int color purple_500 0x7f05023e
 int color purple_700 0x7f05023f
 int color radiobutton_themeable_attribute_color 0x7f050240
-int color red_jordan0D1B 0x7f050255
-int color red_jordan1227 0x7f050256
 int color ripple_material_dark 0x7f050241
 int color ripple_material_light 0x7f050242
 int color secondary_text_default_material_dark 0x7f050243
