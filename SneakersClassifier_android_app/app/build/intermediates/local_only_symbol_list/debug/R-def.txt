@@ -1,6 +1,7 @@
 R_DEF: Internal format may change without notice
 local
 color black
+color bred_toe
 color ic_launcher_background
 color logo_background
 color purple_200
