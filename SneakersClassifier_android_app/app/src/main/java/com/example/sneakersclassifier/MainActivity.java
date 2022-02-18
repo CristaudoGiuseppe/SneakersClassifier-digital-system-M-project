@@ -15,8 +15,6 @@ import android.net.Uri;
 import android.os.Build;
 import android.os.Bundle;
 import android.provider.MediaStore;
-import android.text.method.LinkMovementMethod;
-import android.text.util.Linkify;
 import android.util.Log;
 import android.view.View;
 import android.widget.Button;
@@ -29,7 +27,6 @@ import java.util.Collections;
 import java.util.Map;
 import java.util.Objects;
 
-import com.example.sneakersclassifier.ImageClassifier;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -53,14 +50,14 @@ public class MainActivity extends AppCompatActivity {
     private Map<String, Float> predictions;
 
     // link
-    private String link_aj11 = "https://restocks.net/it/c/sneakers/air-jordan/Air-Jordan-11";
-    private String link_blazer = "https://stockx.com/search?s=blazer%20mid";
-    private String link_am1 = "https://restocks.net/it/c/sneakers/nike/air-max/air-max-1";
-    private String link_yeezy_700 = "https://restocks.net/it/c/sneakers/adidas/yeezy/700/v1";
-    private String link_yeezy_350 = "https://restocks.net/it/c/sneakers/adidas/yeezy/350/v2";
-    private String link_aj4 = "https://restocks.net/it/c/sneakers/air-jordan/air-jordan-4";
-    private String link_aj1 = "https://restocks.net/it/c/sneakers/air-jordan/air-jordan-1/high";
-    private String link_yeezy_slide = "https://restocks.net/it/c/sneakers/adidas/yeezy/slide";
+    private final String link_aj11 = "https://restocks.net/it/c/sneakers/air-jordan/Air-Jordan-11";
+    private final String link_blazer = "https://stockx.com/search?s=blazer%20mid";
+    private final String link_am1 = "https://restocks.net/it/c/sneakers/nike/air-max/air-max-1";
+    private final String link_yeezy_700 = "https://restocks.net/it/c/sneakers/adidas/yeezy/700/v1";
+    private final String link_yeezy_350 = "https://restocks.net/it/c/sneakers/adidas/yeezy/350/v2";
+    private final String link_aj4 = "https://restocks.net/it/c/sneakers/air-jordan/air-jordan-4";
+    private final String link_aj1 = "https://restocks.net/it/c/sneakers/air-jordan/air-jordan-1/high";
+    private final String link_yeezy_slide = "https://restocks.net/it/c/sneakers/adidas/yeezy/slide";
 
 
 
