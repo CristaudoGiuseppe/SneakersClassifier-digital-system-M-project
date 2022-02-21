@@ -35,11 +35,11 @@ Below some screenshot of our android application.
 <table>
     <tr>
         <td><p align="center"><img src="app_screen/1.jpg" width="50%"></p></td>
-        <td><img src="app_screen/2.jpg"  width="50%"></td>
+        <td><p align="center"><img src="app_screen/2.jpg"  width="50%"></p></td>
     </tr>
     <tr>
-        <td><img src="app_screen/3.jpg" width="50%"></td>
-        <td><img src="app_screen/4.jpg" width="50%"></td>
+        <td><p align="center"><img src="app_screen/3.jpg" width="50%"></p></td>
+        <td><p align="center"><img src="app_screen/4.jpg" width="50%"></p></td>
     </tr>
 </table>
     
