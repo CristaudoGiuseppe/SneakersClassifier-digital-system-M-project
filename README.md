@@ -30,6 +30,11 @@ For more details on the code, check out the Jupyter notebook <a href="build_mode
 
 # Develop the android app
 We choose android as our mobile architecture as we are more confidence with java. However deploy the app for iOS shouldn't be that hard. It has been developed with <a href="https://developer.android.com/studio">Android Studio</a>
+Below some screenshot of our android application.
+<img src="app_screen/1.jpg">
+<img src="app_screen/2.jpg">
+<img src="app_screen/3.jpg">
+<img src="app_screen/4.jpg">
 
 
 
