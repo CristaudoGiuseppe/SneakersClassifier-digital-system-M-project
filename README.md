@@ -32,17 +32,9 @@ For more details on the code, check out the Jupyter notebook <a href="build_mode
 We choose android as our mobile architecture as we are more confidence with java. However deploy the app for iOS shouldn't be that hard. It has been developed with <a href="https://developer.android.com/studio">Android Studio</a>.<br>
 Below some screenshot of our android application.
 
-table {
-    border: 1px solid #CCC;
-    border-collapse: collapse;
-}
-
-td {
-    border: none;
-}
 <table>
     <tr>
-        <td><center><img src="app_screen/1.jpg" width="50%"></center></td>
+        <td><p align="center"><img src="app_screen/1.jpg" width="50%"></p></td>
         <td><img src="app_screen/2.jpg"  width="50%"></td>
     </tr>
     <tr>
