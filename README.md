@@ -42,7 +42,7 @@ td {
 }
 <table>
     <tr>
-        <td><img src="app_screen/1.jpg" width="50%"></td>
+        <td><center><img src="app_screen/1.jpg" width="50%"></center></td>
         <td><img src="app_screen/2.jpg"  width="50%"></td>
     </tr>
     <tr>
